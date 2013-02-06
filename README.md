@@ -1,4 +1,4 @@
 projectEuler
 ============
 
-logs of my solved project euler problem
+logs of my solved project euler problems
